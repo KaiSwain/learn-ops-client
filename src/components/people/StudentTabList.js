@@ -5,7 +5,6 @@ import { Record } from "../records/Record.js"
 import { PeopleContext } from "./PeopleProvider.js"
 import { HumanDate } from "../utils/HumanDate.js"
 import { CohortContext } from "../cohorts/CohortProvider.js"
-import { fetchIt } from "../utils/Fetch.js"
 import "./Status.css"
 
 export const StudentTabList = () => {
